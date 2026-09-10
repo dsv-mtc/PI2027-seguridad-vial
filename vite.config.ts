@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/PI2027-seguridad-vial/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
