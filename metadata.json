@@ -1,0 +1,6 @@
+{
+  "name": "Seguridad Vial - Programa de Incentivos",
+  "description": "Propuesta del compromiso: Mejorar la seguridad vial en entornos viales de riesgo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
